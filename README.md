@@ -20,8 +20,8 @@ A PHP-based web application built with the Fat-Free Framework (F3) and AdminLTE 
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd f3-adminlte
+git clone https://github.com/rzqdevgod/fuzeMobi-f3-adminlte.git
+cd fuzeMobi-f3-adminlte
 ```
 
 ### 2. Install Dependencies
